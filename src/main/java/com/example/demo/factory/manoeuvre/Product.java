@@ -1,4 +1,4 @@
-package com.example.demo.factory.manoeure;
+package com.example.demo.factory.manoeuvre;
 
 /**
  * @Auther: wangzhendong

@@ -1,4 +1,4 @@
-package com.example.demo.template.manoeure;
+package com.example.demo.template.manoeuvre;
 
 /**
  * @Auther: wangzhendong
